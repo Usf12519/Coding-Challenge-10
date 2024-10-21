@@ -32,3 +32,9 @@
     </style>
 </head>
 </body>
+
+
+// Task 2: Add Event Listeners for Product Selection
+
+const.sizeSelector = document.getReferenceById(`size`);
+const.priceDisplay = document.getReferenceById(`Price`);
